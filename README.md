@@ -39,7 +39,7 @@ This Personal Portfolio is a dynamic and interactive portfolio website built wit
 
 ### App Screenshot
 
-![screenshot](https://github.com/Paul-Chidiadi/PaulC/blob/main/portfolio.png)
+![screenshot](https://github.com/Paul-Chidiadi/PaulC/blob/master/portfolio.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
