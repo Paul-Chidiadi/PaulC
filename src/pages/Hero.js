@@ -7,7 +7,7 @@ const Hero = () => (
   <div className="hero" id="home">
     <div className="hero-overlay">
       <div className="description">
-        <h2 className="title">HELLO. I am Paul Chidiadi</h2>
+        <h2 className="title">Hello, I am Paul Chidiadi</h2>
         <h3 className="tagline">Full-Stack Software Developer React Nextjs Redux Nodejs Typescript...</h3>
         <p className="paragraph">
           I am a motivated and detail-oriented developer dedicated to transforming innovative ideas into seamless,
@@ -22,7 +22,7 @@ const Hero = () => (
               target="_blank"
               rel="noreferrer"
             >
-              BACK-END CV
+              BACKEND CV
             </a>
           </button>
           <button className="lets-talk">
@@ -31,7 +31,7 @@ const Hero = () => (
               target="_blank"
               rel="noreferrer"
             >
-              FRONT-END CV
+              FRONTEND CV
             </a>
           </button>
         </div>
