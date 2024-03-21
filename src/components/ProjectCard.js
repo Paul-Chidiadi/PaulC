@@ -3,8 +3,8 @@ import './ProjectCard.css';
 
 const ProjectCard = (props) => (
   <div className="project-card">
-    {props.source_link !== 'N/A' ? (
-      <a href={props.source_link} target="_blank" rel="noreferrer">
+    {props.live_link !== 'N/A' ? (
+      <a href={props.live_link} target="_blank" rel="noreferrer">
         <i className="fa-solid fa-arrow-right arrow" />
       </a>
     ) : (
